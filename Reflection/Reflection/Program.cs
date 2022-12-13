@@ -1,9 +1,9 @@
 ﻿using Reflection.Models;
 
-User t = new User()
+User newUser = new User()
 {
     UserName = "Nigar",
     Email = "tu201906017@code.edu.az"
 };
 
-Console.WriteLine("Username: " + t.GetValue("UserName") + "\nEmail: " + t.GetValue("Email"));
+Console.WriteLine("Username: " + newUser.GetValue("UserName") + "\nEmail: " + newUser.GetValue("Email"));
