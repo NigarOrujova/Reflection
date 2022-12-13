@@ -19,7 +19,7 @@ namespace Reflection.Models
             }
             catch
             {
-                return "This property does not exist";
+                return "This property doesn't exist";
             }
         }
     }

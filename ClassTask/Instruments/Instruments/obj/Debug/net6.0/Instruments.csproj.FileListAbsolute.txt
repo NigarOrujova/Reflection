@@ -1,0 +1,15 @@
+C:\Users\Nigar\Desktop\Instruments\Instruments\bin\Debug\net6.0\Instruments.exe
+C:\Users\Nigar\Desktop\Instruments\Instruments\bin\Debug\net6.0\Instruments.deps.json
+C:\Users\Nigar\Desktop\Instruments\Instruments\bin\Debug\net6.0\Instruments.runtimeconfig.json
+C:\Users\Nigar\Desktop\Instruments\Instruments\bin\Debug\net6.0\Instruments.dll
+C:\Users\Nigar\Desktop\Instruments\Instruments\bin\Debug\net6.0\Instruments.pdb
+C:\Users\Nigar\Desktop\Instruments\Instruments\obj\Debug\net6.0\Instruments.csproj.AssemblyReference.cache
+C:\Users\Nigar\Desktop\Instruments\Instruments\obj\Debug\net6.0\Instruments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nigar\Desktop\Instruments\Instruments\obj\Debug\net6.0\Instruments.AssemblyInfoInputs.cache
+C:\Users\Nigar\Desktop\Instruments\Instruments\obj\Debug\net6.0\Instruments.AssemblyInfo.cs
+C:\Users\Nigar\Desktop\Instruments\Instruments\obj\Debug\net6.0\Instruments.csproj.CoreCompileInputs.cache
+C:\Users\Nigar\Desktop\Instruments\Instruments\obj\Debug\net6.0\Instruments.dll
+C:\Users\Nigar\Desktop\Instruments\Instruments\obj\Debug\net6.0\refint\Instruments.dll
+C:\Users\Nigar\Desktop\Instruments\Instruments\obj\Debug\net6.0\Instruments.pdb
+C:\Users\Nigar\Desktop\Instruments\Instruments\obj\Debug\net6.0\Instruments.genruntimeconfig.cache
+C:\Users\Nigar\Desktop\Instruments\Instruments\obj\Debug\net6.0\ref\Instruments.dll
