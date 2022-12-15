@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nigar\\Desktop\\Ufo\\Reflection\\Reflection\\Reflection.csproj",
+      "projectUniqueName": "C:\\Users\\Nigar\\Desktop\\New folder (11)\\Reflection\\Reflection\\Reflection\\Reflection.csproj",
       "projectName": "Reflection",
-      "projectPath": "C:\\Users\\Nigar\\Desktop\\Ufo\\Reflection\\Reflection\\Reflection.csproj",
+      "projectPath": "C:\\Users\\Nigar\\Desktop\\New folder (11)\\Reflection\\Reflection\\Reflection\\Reflection.csproj",
       "packagesPath": "C:\\Users\\Nigar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nigar\\Desktop\\Ufo\\Reflection\\Reflection\\obj\\",
+      "outputPath": "C:\\Users\\Nigar\\Desktop\\New folder (11)\\Reflection\\Reflection\\Reflection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nigar\\AppData\\Roaming\\NuGet\\NuGet.Config",
